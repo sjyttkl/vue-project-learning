@@ -1,7 +1,7 @@
 # vue-project-learning
 
 This template should help get you started developing with Vue 3 in Vite.
-[学习比笔记](public/Vue3.md)
+[学习笔记](public/vue文档Vue3.md)
 
 ## Recommended IDE Setup
 
